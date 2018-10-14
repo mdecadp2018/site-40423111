@@ -128,11 +128,14 @@ vertical: body pane on the botton</t>
 
 ### 虎科大機械設計工程系
 
+
+
+
 &lt;small&gt;
 Created by [KMOLab](http://lab.kmol.info/)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[2018 Fall 40423111網誌](./../blog/index.html)
 
 
 </t>
