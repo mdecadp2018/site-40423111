@@ -1,6 +1,6 @@
 Title: About
 
-##2018 Fall 分組網誌
+##2018 Fall 40423111網誌
 
 課程倉儲: <a href="https://github.com/mdecadp2018/site-40423111">https://github.com/mdecadp2018/site-40423111</a>
 
