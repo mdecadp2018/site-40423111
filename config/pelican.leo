@@ -23,7 +23,7 @@
 <v t="leo.20170908162904.1" a="E"><vh>有 disqus 論壇</vh>
 <v t="leo.20170709224430.1"><vh>@button github-blog</vh></v>
 </v>
-<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
 <v t="leo.20170709020600.1"><vh>共用</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 <v t="leo.20170709015947.1"><vh>遠端</vh></v>
@@ -69,7 +69,14 @@
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20181103161508.1"><vh>@edit 20180907.md</vh></v>
+<v t="leo.20181103174530.1"><vh>@edit 20181026.md</vh></v>
+<v t="leo.20181103174542.1"><vh>@edit 20181019.md</vh></v>
+<v t="leo.20181103171254.1"><vh>@edit 20181012.md</vh></v>
+<v t="leo.20181103171327.1"><vh>@edit 20181005.md</vh></v>
+<v t="leo.20181103171330.1"><vh>@edit 20180928.md</vh></v>
+<v t="leo.20181103171325.1"><vh>@edit 20180921.md</vh></v>
+<v t="leo.20181103171318.1"><vh>@edit 20180914.md</vh></v>
+<v t="leo.20181103171312.1"><vh>@edit 20180907.md</vh></v>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
 </v>
 </v>
