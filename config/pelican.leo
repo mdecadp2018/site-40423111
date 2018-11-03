@@ -23,7 +23,7 @@
 <v t="leo.20170908162904.1" a="E"><vh>有 disqus 論壇</vh>
 <v t="leo.20170709224430.1"><vh>@button github-blog</vh></v>
 </v>
-<v t="yen.20170108171733.5" a="E"><vh>Pelican 設定</vh>
+<v t="yen.20170108171733.5"><vh>Pelican 設定</vh>
 <v t="leo.20170709020600.1"><vh>共用</vh></v>
 <v t="yen.20170108171733.7"><vh>@edit pelicanconf.py</vh></v>
 <v t="leo.20170709015947.1"><vh>遠端</vh></v>
@@ -31,7 +31,7 @@
 <v t="leo.20170709015940.1"><vh>近端</vh></v>
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
-<v t="yen.20170224232341.1"><vh>編輯 template</vh>
+<v t="yen.20170224232341.1" a="E"><vh>編輯 template</vh>
 <v t="leo.20180115093448.1"><vh>@path theme/attila/templates</vh>
 <v t="leo.20180715212936.1"><vh>@edit article.html</vh></v>
 <v t="leo.20180115093536.1"><vh>@edit base.html</vh></v>
@@ -69,9 +69,7 @@
 <v t="leo.20170710022041.1" a="E"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
-<v t="leo.20181103120517.1"><vh>@edit 20180907.md</vh></v>
 <v t="leo.20180423103656.1"><vh>@edit 20180718.md</vh></v>
-<v t="leo.20181103150857.1"><vh>@edit 20181022.md</vh></v>
 </v>
 </v>
 </v>
