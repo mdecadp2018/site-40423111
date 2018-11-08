@@ -32,7 +32,7 @@
 <v t="yen.20170108171733.6"><vh>@edit local_publishconf.py</vh></v>
 </v>
 <v t="yen.20170224232341.1" a="E"><vh>編輯 template</vh>
-<v t="leo.20180115093448.1"><vh>@path theme/attila/templates</vh>
+<v t="leo.20180115093448.1" a="E"><vh>@path theme/attila/templates</vh>
 <v t="leo.20180715212936.1"><vh>@edit article.html</vh></v>
 <v t="leo.20180115093536.1"><vh>@edit base.html</vh></v>
 <v t="leo.20180115093657.1"><vh>@edit search.html</vh></v>
@@ -44,16 +44,16 @@
 </v>
 <v t="leo.20180115142025.1"><vh>保留之前舊的設定檔案</vh></v>
 </v>
-<v t="yen.20170224232341.2"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
+<v t="yen.20170224232341.2" a="E"><vh>@path theme/pelican-bootstrap3_local/templates</vh>
 <v t="yen.20170224232341.3"><vh>@edit base.html</vh></v>
 </v>
-<v t="leo.20170710015301.1"><vh>@path theme/pelican-bootstrap3/templates</vh>
+<v t="leo.20170710015301.1" a="E"><vh>@path theme/pelican-bootstrap3/templates</vh>
 <v t="leo.20170710015311.1"><vh>@edit search.html</vh></v>
 <v t="leo.20170710095845.1"><vh>@edit base.html</vh></v>
 <v t="leo.20170710101854.1"><vh>@edit article.html</vh></v>
 </v>
 </v>
-<v t="leo.20170710015511.1"><vh>編輯 plugin</vh>
+<v t="leo.20170710015511.1" a="E"><vh>編輯 plugin</vh>
 <v t="leo.20170710015523.1" a="E"><vh>@path plugin</vh>
 <v t="leo.20170710015523.2" a="E"><vh>@path tipue_search</vh>
 <v t="leo.20170710015523.3"><vh>@edit tipue_search.py</vh></v>
@@ -70,7 +70,6 @@
 <v t="leo.20180115115910.1" a="E"><vh>2018</vh>
 <v t="leo.20180423103639.1" a="E"><vh>2018 Fall CP 課程</vh>
 <v t="leo.20181103174530.1"><vh>@edit 20181026.md</vh></v>
-<v t="leo.20181103174542.1"><vh>@edit 20181019.md</vh></v>
 <v t="leo.20181103171254.1"><vh>@edit 20181012.md</vh></v>
 <v t="leo.20181103171327.1"><vh>@edit 20181005.md</vh></v>
 <v t="leo.20181103171330.1"><vh>@edit 20180928.md</vh></v>
