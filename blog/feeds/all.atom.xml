@@ -1,100 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40423111網誌</title><link href="https://mdecadp2018.github.io/site-40423111/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40423111/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40423111/blog/</id><updated>2018-11-09T20:00:00+08:00</updated><entry><title>Week 9</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog8.html" rel="alternate"></link><published>2018-11-09T20:00:00+08:00</published><updated>2018-11-09T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-11-09:/site-40423111/blog/2018-Fall-Project-Blog8.html</id><summary type="html">&lt;p&gt;進行專案分組及打自評成績&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;進行專案分組及打自評成績&lt;/p&gt;
-
-
-&lt;p&gt;進行專案分組及打自評成績&lt;/p&gt;
-&lt;p&gt;專案有八個題目可以選擇：3D 列印、行走機構、鋼球運動系統、機械手臂、虛實手足球、機械計時器、摺疊自行車及方程式賽車&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-10-19T20:00:00+08:00</published><updated>2018-10-19T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-10-19:/site-40423111/blog/2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;更新 flaskapp.py 至最新版本.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;更新 flaskapp.py 至最新版本.&lt;/p&gt;
-
-
-&lt;p&gt;更新 flaskapp.py 至最新版本：&lt;/p&gt;
-&lt;p&gt;1.上網搜尋 github cmsimfly
-2.將 git clone cmsimfly 的倉儲 git clone https://github.com/chiamingyen/cmsimfly
-3.將 cmsimfly 裡的 flaskapp.py 複製貼上至自己的資料夾
-4.更新 flaskapp.py
-5.在 Leo 中，開啟 cmsimfly.leo
-6.在 Leo 中的編輯 flaskapp.py 下按 ctrl + i 新增一個 @auto flaskapp.py
-7.鼠標在 @auto flaskapp.py 上，按右鍵點 Refresh from disk
-8.將原本的 @clean flaskapp.py 刪掉
-9.把 @auto flaskapp.py 改為 @clean flaskapp.py
-10.完成更新&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-10-12T20:00:00+08:00</published><updated>2018-10-12T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-10-12:/site-40423111/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;onshape、Pyslvs&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;onshape、Pyslvs&lt;/p&gt;
-
-
-&lt;p&gt;Onshape : 看PDF，用 Merriam-Webster 查不會的英文單字&lt;/p&gt;
-&lt;p&gt;Pyslvs 介紹 : &lt;/p&gt;
-&lt;p&gt;介紹行走機構，用 Pyslvs 分析，做設計前必須先了解其特性，在 Pyslvs 改變任何一個地方，後面的尺寸就會跟著變動&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-10-05T20:00:00+08:00</published><updated>2018-10-05T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-10-05:/site-40423111/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;Onshape 學習要點 &lt;/p&gt;
-</summary><content type="html">&lt;p&gt;Onshape 學習要點 &lt;/p&gt;
-
-
-&lt;p&gt;Onshape 學習要點 :
-1.建立 Onshape 帳號 - 請利用學校 gmail 建立教育版帳號
-2.3D 環境導航 ( navigate )
-3.說明基於草圖 ( sketch-based )的建模
-4.介紹 4 個基本特徵 ( feature s)（擠出 ( extrude )，旋轉 ( revolve )，掃描 ( sweep )，和斷面混成 ( loaf )）
-5.從 2D 過渡到 3D
-6.介紹基本草圖
-7.附錄 A：鍵盤快捷鍵 ( keyboard shotcuts )，滑鼠和觸控平面手勢 ( touchpad gestures )，檢視工具
-8.附錄 B：導航說明檔，建立帳號，訂閱計劃 ( subscription plans )
-9.圓柱薄殼 ( cylinder shell ) - 繪圖界面與可視化 / 檢視的介紹
-10.針對既有草圖的模型 - 接續建立特徵
-11.現存公用模型 (public models) - 如何搜尋並復製到工作區 ( workspace )&lt;/p&gt;
-&lt;p&gt;只要逐一閱讀 Onshape 教學文件,  從各單字的英英字典查詢中, 找出用來解釋這些單字的相關單字, 並用心了解各單字的字意與用法, 假以時日, 就能更順暢直接閱讀各種英文資料.&lt;/p&gt;
-&lt;p&gt;開始學習 Onshape
-Onshape 是一套純雲端 MCAD (Mechanical Computer Aided Design) 套件, 可以利用電腦中的瀏覽器, 手機或平板中的 App, 就可以執行 2D/3D 零組件設計繪圖.
-有關 Onshape 如何建立零組件, 請參考:
-https://www.onshape.com/cad-blog/under-the-hood-how-does-onshape-really-work &lt;/p&gt;
-&lt;p&gt;Onshape 是一套雲端應用程式
-雲端應用的特性是: 用多少運算資源, 才開啟多少運算資源, 可最佳化且不至超載.
-Onshape is like any other large-scale modern cloud application – a collection of servers and services. They can run on machines optimized for their purposes; and the number of instances can be optimized so that they are always busy, but not overloaded, to make efficient use of resources.&lt;/p&gt;
-&lt;p&gt;認證伺服器
-Some servers that handle things (such as user authentication and authorization, and finding and listing documents) process lots of requests, but do not do much “real work” themselves. They forward complex requests to other servers. Others know what is “inside” a document, and keep modeling sessions in memory, resulting in long-lasting sessions for modeling with documents.&lt;/p&gt;
-&lt;p&gt;幾何運算伺服器&lt;/p&gt;
-&lt;p&gt;Onshape 的幾何模擬核心採用 Parasolid&lt;/p&gt;
-&lt;p&gt;Onshape 採用 D-Cubed 解繪圖過程中的幾何約束條件&lt;/p&gt;
-&lt;p&gt;Others, the admittedly unimaginatively named “geometry servers,” do all the math – these are optimized for computation power. These servers are the ones that reconstruct geometry from feature lists and FeatureScript, solve for instance positions in assemblies, and compute graphical tessellations. They make use of the venerable geometric modeling kernel Parasolid and constraint solver D-Cubed – both well-tested by many years of use in many CAD systems – which we license from Siemens PLM.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-28T20:00:00+08:00</published><updated>2018-09-28T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-28:/site-40423111/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;學習使用onshape.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;學習使用onshape.&lt;/p&gt;
-
-
-&lt;h2&gt;學習使用onshape&lt;/h2&gt;
-&lt;p&gt;學習使用onshape&lt;/p&gt;
-&lt;p&gt;onshape的優點:
-&lt;em&gt; 不須下載便能建構3D          (有更多容量載遊戲，真的棒!!)
-&lt;/em&gt; 不須害怕畫快完時當機還沒儲存          (當機，真的幹)
-&lt;em&gt; 分享作品快速，只需一條網址就能偷窺  &lt;br&gt;
-&lt;/em&gt; 網路就是我的公事包
-onshape的缺點:
-* 有中文介面，但不能用          (真的香菇)&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-21T20:00:00+08:00</published><updated>2018-09-21T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-21:/site-40423111/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;編輯網誌.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;編輯網誌.&lt;/p&gt;
-
-
-&lt;p&gt;編輯網誌&lt;/p&gt;
-&lt;p&gt;利用p37開啟近端作業
-https://localhost:8443       顯示靜態網頁
-https://localhost:8444       顯示動態網頁&lt;/p&gt;
-&lt;p&gt;在靜態網頁編輯完成後，需按下generate_pages，才會轉到動態網頁同步&lt;/p&gt;
-&lt;p&gt;心得:&lt;/p&gt;
-&lt;p&gt;上這門課讓我腦神經可以說活了一半回來，因為休學的兩年間不像在學校一直有新課程要學要動腦，雪上加霜的是去當 4 個月的兵後，只剩下吃飯和掃地的功能，雖說是活了一半的腦神經，但原本健在的一半卻死了，因為我花了3 天平均一天只睡4個小時為了要會用p37，雖然很開心比較懂了，卻也感覺自己好像程度落後很多呢!&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-14T20:00:00+08:00</published><updated>2018-09-14T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-14:/site-40423111/blog/2018-Fall-Project-Blog1.html</id><summary type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
-
-
-&lt;h2&gt;建立倉儲&lt;/h2&gt;
-&lt;p&gt;第一, 註冊並登入github帳號,新增一個倉儲.&lt;/p&gt;
-&lt;p&gt;第二,開起p37 git clone 40423111-2倉儲和2018fall倉儲到近端,將兩者合併.&lt;/p&gt;
-&lt;p&gt;將檔案推上雲端&lt;/p&gt;
-&lt;p&gt;git status                                   查看檔案狀況
-git add .                                    加入全部
-git commt -m " &lt;strong&gt;&lt;em&gt;_&lt;/em&gt;&lt;/strong&gt;"        建commit
-git push                                    推到遠端&lt;/p&gt;
-&lt;p&gt;心得:&lt;/p&gt;
-&lt;p&gt;上課時聽嚴教授說明github倉儲只覺得頭很痛，
-教授腦袋的運作方式就是不一樣，當時只了解
-利用雲端倉儲就是帥，可以不用背公事包帶學
-身碟，甚至不用人在現場也可以進行會議，只
-要有網路，是能做到這些的，但我擔心的是網
-路上的安全性，假如安全沒問題這樣的構想能
-實現，真的能帶來極大的利益與便利。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>course content</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 40423111網誌</title><link href="https://mdecadp2018.github.io/site-40423111/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40423111/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40423111/blog/</id><updated>2018-09-07T20:00:00+08:00</updated><entry><title>course content</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
@@ -106,7 +11,42 @@ git push                                    推到遠端&lt;/p&gt;
 &lt;h2&gt;該學習哪種程式語言?&lt;/h2&gt;
 &lt;p&gt;C/C++、Python、Lua 或 Javascript?&lt;/p&gt;
 &lt;p&gt;都可以.&lt;/p&gt;
-&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+&lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 1</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog1.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog1.html</id><summary type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+
+
+&lt;h2&gt;建立倉儲&lt;/h2&gt;
+&lt;p&gt;第一, 註冊並登入github帳號,新增一個倉儲.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 2</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog2.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog2.html</id><summary type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+
+
+&lt;h2&gt;建立倉儲&lt;/h2&gt;
+&lt;p&gt;第一, 註冊並登入github帳號,新增一個倉儲.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 3</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog3.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog3.html</id><summary type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+
+
+&lt;h2&gt;建立倉儲&lt;/h2&gt;
+&lt;p&gt;第一, 註冊並登入github帳號,新增一個倉儲.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 4</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog4.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog4.html</id><summary type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+
+
+&lt;h2&gt;建立倉儲&lt;/h2&gt;
+&lt;p&gt;第一, 註冊並登入github帳號,新增一個倉儲.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 5</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog5.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog5.html</id><summary type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+
+
+&lt;h2&gt;建立倉儲&lt;/h2&gt;
+&lt;p&gt;第一, 註冊並登入github帳號,新增一個倉儲.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 6</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog6.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog6.html</id><summary type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+
+
+&lt;h2&gt;建立倉儲&lt;/h2&gt;
+&lt;p&gt;第一, 註冊並登入github帳號,新增一個倉儲.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 7</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog7.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog7.html</id><summary type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
+
+
+&lt;h2&gt;建立倉儲&lt;/h2&gt;
+&lt;p&gt;第一, 註冊並登入github帳號,新增一個倉儲.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>Week 8</title><link href="https://mdecadp2018.github.io/site-40423111/blog/2018-Fall-Project-Blog8.html" rel="alternate"></link><published>2018-09-07T20:00:00+08:00</published><updated>2018-09-07T20:00:00+08:00</updated><author><name>40423111</name></author><id>tag:mdecadp2018.github.io,2018-09-07:/site-40423111/blog/2018-Fall-Project-Blog8.html</id><summary type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;利用github和p37建立一個雲端倉儲.&lt;/p&gt;
 
 
