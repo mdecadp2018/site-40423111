@@ -21,54 +21,75 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20181109034800.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181109034800.1"><vh>各式內容引用範例</vh>
 <v t="leo.20181109034800.2" a="E"><vh>week1</vh>
 <v t="leo.20181109034800.3"><vh>1</vh></v>
 </v>
 <v t="leo.20181109034800.4" a="E"><vh>week1</vh>
-<v t="leo.20181109034800.5"><vh>git</vh></v>
+<v t="leo.20181109034800.5"><vh>2</vh></v>
 </v>
 <v t="leo.20181109034800.6" a="E"><vh>week1</vh>
 <v t="leo.20181109034800.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20181109034834.1"><vh>各式內容引用範例</vh>
-<v t="leo.20181109034834.2" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20181109034834.3"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20181109054839.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181109054839.2" a="E"><vh>week2</vh>
+<v t="leo.20181109054839.3"><vh>1</vh></v>
 </v>
-<v t="leo.20181109034834.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20181109034834.5"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20181109034834.6" a="E"><vh>導入影片</vh>
-<v t="leo.20181109034834.7"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109054839.6" a="E"><vh>week2</vh>
+<v t="leo.20181109054839.7"><vh>心得</vh></v>
 </v>
 </v>
-<v t="leo.20181109034829.1"><vh>各式內容引用範例</vh>
-<v t="leo.20181109034829.2" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20181109034829.3"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20181109054843.1"><vh>各式內容引用範例</vh>
+<v t="leo.20181109054843.2" a="E"><vh>week3</vh>
+<v t="leo.20181109054843.3"><vh>1</vh></v>
 </v>
-<v t="leo.20181109034829.4" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20181109034829.5"><vh>引用程式碼</vh></v>
-</v>
-<v t="leo.20181109034829.6" a="E"><vh>導入影片</vh>
-<v t="leo.20181109034829.7"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109054843.4" a="E"><vh>week3</vh>
+<v t="leo.20181109054843.5"><vh>2</vh></v>
 </v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20181109054846.1"><vh>各式內容引用範例</vh>
+<v t="leo.20181109054846.2" a="E"><vh>week4</vh>
+<v t="leo.20181109054846.3"><vh>1</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
+<v t="leo.20181109054846.4" a="E"><vh>week4</vh>
+<v t="leo.20181109054846.5"><vh>2</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
-<v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+<v t="leo.20181109054846.6" a="E"><vh>week4</vh>
+<v t="leo.20181109054846.7"><vh>3</vh></v>
+</v>
+<v t="leo.20181109060830.1" a="E"><vh>week4</vh>
+<v t="leo.20181109060830.2"><vh>4</vh></v>
+</v>
+<v t="leo.20181109060834.1" a="E"><vh>week4</vh>
+<v t="leo.20181109060834.2"><vh>5</vh></v>
+</v>
+<v t="leo.20181109061215.1" a="E"><vh>week4</vh>
+<v t="leo.20181109061215.2"><vh>6</vh></v>
+</v>
+</v>
+<v t="leo.20181109055215.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181109055215.2" a="E"><vh>week5</vh>
+<v t="leo.20181109055215.3"><vh>1</vh></v>
+</v>
+</v>
+<v t="leo.20181109055218.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181109055218.2" a="E"><vh>week6</vh>
+<v t="leo.20181109055218.3"><vh>1</vh></v>
+</v>
+<v t="leo.20181109055218.4" a="E"><vh>week6</vh>
+<v t="leo.20181109055218.5"><vh>2</vh></v>
+</v>
+</v>
+<v t="leo.20181109055223.1" a="E"><vh>各式內容引用範例</vh>
+<v t="leo.20181109055223.2" a="E"><vh>week9</vh>
+<v t="leo.20181109055223.3"><vh>1</vh></v>
 </v>
 </v>
 </v>
@@ -165,10 +186,10 @@ vertical: body pane on the botton</t>
 
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40423111](https://github.com/mdecadp2018/site-40423111)
 &lt;/small&gt;
 
-[2018 Fall 40423111網誌](./../blog/index.html)
+[2018 Fall 40423111網誌](https://mdecadp2018.github.io/site-40423111/blog/index.html)
 
 
 </t>
@@ -190,83 +211,6 @@ Created by [KMOLab](http://lab.kmol.info/)
 * 按 b 或 . 鍵可以切換螢幕黑屏 (black)
 * 按 Esc 可以退出全螢幕或全域檢視 (Escape)
 
-</t>
-<t tx="leo.20180827201621.13">&lt;section&gt;
-@others
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20180827201621.14">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
-
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
-<t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-
-						
-</t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
-
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
@@ -418,9 +362,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109034800.7"># Week 3
-
-### 心得
+<t tx="leo.20181109034800.7">### 心得
 
 上課時聽嚴教授說明github倉儲只覺得頭很痛，
 教授腦袋的運作方式就是不一樣，當時只了解
@@ -429,12 +371,12 @@ make.start()
 要有網路，是能做到這些的，但我擔心的是網
 路上的安全性，假如安全沒問題這樣的構想能
 實現，真的能帶來極大的利益與便利。</t>
-<t tx="leo.20181109034829.1">&lt;section&gt;
+<t tx="leo.20181109054839.1">&lt;section&gt;
 @others
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181109034829.2">&lt;section data-markdown&gt;
+<t tx="leo.20181109054839.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -445,14 +387,33 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109034829.3"># 數學符號與方程式
+<t tx="leo.20181109054839.3"># Week 2
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+### 編輯網誌
 
-$$I = \int \rho R^{2} dV$$
+* 利用p37開啟近端作業
+* https://localhost:8443       顯示靜態網頁
+* https://localhost:8444       顯示動態網頁
+* 在靜態網頁編輯完成後，需按下generate_pages，才會轉到動態網頁同步
 </t>
-<t tx="leo.20181109034829.4">&lt;section data-markdown&gt;
+<t tx="leo.20181109054839.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109054839.7">### 心得
+
+上這門課讓我腦神經可以說活了一半回來，因為休學的兩年間不像在學校一直有新課程要學要動腦，雪上加霜的是去當 4 個月的兵後，只剩下吃飯和掃地的功能，雖說是活了一半的腦神經，但原本健在的一半卻死了，因為我花了3 天平均一天只睡4個小時為了要會用p37，雖然很開心比較懂了，卻也感覺自己好像程度落後很多呢!</t>
+<t tx="leo.20181109054843.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109054843.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -463,55 +424,18 @@ $$I = \int \rho R^{2} dV$$
 
 						
 </t>
-<t tx="leo.20181109034829.5">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+<t tx="leo.20181109054843.3"># Week 3
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
-</t>
-<t tx="leo.20181109034829.6">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
+學習使用onshape
 
-
-						
-</t>
-<t tx="leo.20181109034829.7">## 使用 iframe 導入影片
-
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
-<t tx="leo.20181109034834.1">&lt;section&gt;
-@others
-&lt;/section&gt;
+onshape的優點:
+* 不須下載便能建構3D          (有更多容量載遊戲，真的棒!!)
+* 不須害怕畫快完時當機還沒儲存          (當機，真的幹)
+* 分享作品快速，只需一條網址就能偷窺    
+* 網路就是我的公事包
 
 </t>
-<t tx="leo.20181109034834.2">&lt;section data-markdown&gt;
+<t tx="leo.20181109054843.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -522,14 +446,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109034834.3"># 數學符號與方程式
+<t tx="leo.20181109054843.5">onshape的缺點:
+* 有中文介面，但不能用          (真的香菇)</t>
+<t tx="leo.20181109054846.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
 </t>
-<t tx="leo.20181109034834.4">&lt;section data-markdown&gt;
+<t tx="leo.20181109054846.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
 @others
@@ -540,35 +464,35 @@ $$I = \int \rho R^{2} dV$$
 
 						
 </t>
-<t tx="leo.20181109034834.5">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+<t tx="leo.20181109054846.3"># Week 4
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
+Onshape 學習要點 :
+
+* 建立 Onshape 帳號 - 請利用學校 gmail 建立教育版帳號
+* 3D 環境導航 ( navigate )
+* 說明基於草圖 ( sketch-based )的建模
+* 介紹 4 個基本特徵 ( feature s)（擠出 ( extrude )，旋轉 ( revolve )，掃描 ( sweep )，和斷面混成 ( loaf )）
+* 從 2D 過渡到 3D
+
 </t>
-<t tx="leo.20181109034834.6">&lt;section data-markdown&gt;
+<t tx="leo.20181109054846.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109054846.5">* 介紹基本草圖
+* 附錄 A：鍵盤快捷鍵 ( keyboard shotcuts )，滑鼠和觸控平面手勢 ( touchpad gestures )，檢視工具
+* 附錄 B：導航說明檔，建立帳號，訂閱計劃 ( subscription plans )
+* 圓柱薄殼 ( cylinder shell ) - 繪圖界面與可視化 / 檢視的介紹
+* 針對既有草圖的模型 - 接續建立特徵
+* 現存公用模型 (public models) - 如何搜尋並復製到工作區 ( workspace )</t>
+<t tx="leo.20181109054846.6">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
     &lt;/script&gt;
@@ -577,11 +501,130 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181109034834.7">## 使用 iframe 導入影片
+<t tx="leo.20181109054846.7">只要逐一閱讀 Onshape 教學文件,  從各單字的英英字典查詢中, 找出用來解釋這些單字的相關單字, 並用心了解各單字的字意與用法, 假以時日, 就能更順暢直接閱讀各種英文資料.</t>
+<t tx="leo.20181109055215.1">&lt;section&gt;
+@others
+&lt;/section&gt;
 
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 </t>
+<t tx="leo.20181109055215.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109055215.3"># Week 5
+
+Onshape : 看PDF，用 Merriam-Webster 查不會的英文單字
+Pyslvs 介紹 : 
+介紹行走機構，用 Pyslvs 分析，做設計前必須先了解其特性，在 Pyslvs 改變任何一個地方，後面的尺寸就會跟著變動</t>
+<t tx="leo.20181109055218.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109055218.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109055218.3"># Week 6
+
+* 更新 flaskapp.py 至最新版本：
+上網搜尋 github cmsimfly
+* 將 git clone cmsimfly 的倉儲 git clone https://github.com/chiamingyen/cmsimfly
+* 將 cmsimfly 裡的 flaskapp.py 複製貼上至自己的資料夾
+* 更新 flaskapp.py
+* 在 Leo 中，開啟 cmsimfly.leo
+* 在 Leo 中的編輯 flaskapp.py 下按 ctrl + i 新增一個 @auto flaskapp.py
+</t>
+<t tx="leo.20181109055218.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109055218.5">鼠標在 @auto flaskapp.py 上，按右鍵點 Refresh from disk
+
+將原本的 @clean flaskapp.py 刪掉
+
+把 @auto flaskapp.py 改為 @clean flaskapp.py
+
+完成更新</t>
+<t tx="leo.20181109055223.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20181109055223.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20181109055223.3"># Week 9
+
+* 進行專案分組及打自評成績
+* 專案有八個題目可以選擇：3D 列印、行走機構、鋼球運動系統、機械手臂、虛實手足球、機械計時器、摺疊自行車及方程式賽車</t>
+<t tx="leo.20181109060830.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109060830.2">Onshape 是一套雲端應用程式
+雲端應用的特性是: 用多少運算資源, 才開啟多少運算資源, 可最佳化且不至超載.
+Onshape is like any other large-scale modern cloud application – a collection of servers and services. They can run on machines optimized for their purposes; and the number of instances can be optimized so that they are always busy, but not overloaded, to make efficient use of resources.</t>
+<t tx="leo.20181109060834.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109060834.2">認證伺服器
+Some servers that handle things (such as user authentication and authorization, and finding and listing documents) process lots of requests, but do not do much “real work” themselves. They forward complex requests to other servers. Others know what is “inside” a document, and keep modeling sessions in memory, resulting in long-lasting sessions for modeling with documents.</t>
+<t tx="leo.20181109061215.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109061215.2">幾何運算伺服器
+
+Onshape 的幾何模擬核心採用 Parasolid
+
+Onshape 採用 D-Cubed 解繪圖過程中的幾何約束條件
+
+Others, the admittedly unimaginatively named “geometry servers,” do all the math – these are optimized for computation power. These servers are the ones that reconstruct geometry from feature lists and FeatureScript, solve for instance positions in assemblies, and compute graphical tessellations. They make use of the venerable geometric modeling kernel Parasolid and constraint solver D-Cubed – both well-tested by many years of use in many CAD systems – which we license from Siemens PLM.</t>
 </tnodes>
 </leo_file>
