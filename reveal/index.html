@@ -47,10 +47,10 @@
 
 
 <small>
-Created by [40423111](https://github.com/mdecadp2018/site-40423111)
+Created by [KMOLab](http://lab.kmol.info/)
 </small>
 
-[2018 Fall 40423111網誌](https://mdecadp2018.github.io/site-40423111/blog/index.html)
+[2018 Fall 40423111網誌](./../blog/index.html)
 
 
     </script>
@@ -115,6 +115,8 @@ Created by [40423111](https://github.com/mdecadp2018/site-40423111)
 						
 <section data-markdown>
     <script type="text/template">
+# Week 3
+
 ### 心得
 
 上課時聽嚴教授說明github倉儲只覺得頭很痛，
@@ -136,14 +138,12 @@ Created by [40423111](https://github.com/mdecadp2018/site-40423111)
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-# Week 2
+# 數學符號與方程式
 
-### 編輯網誌
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
 
-* 利用p37開啟近端作業
-* https://localhost:8443       顯示靜態網頁
-* https://localhost:8444       顯示動態網頁
-* 在靜態網頁編輯完成後，需按下generate_pages，才會轉到動態網頁同步
+$$I = \int \rho R^{2} dV$$
     </script>
 </section>
 
@@ -152,10 +152,46 @@ Created by [40423111](https://github.com/mdecadp2018/site-40423111)
 						
 <section data-markdown>
     <script type="text/template">
-### 心得
+<!-- 請注意, @others 不可以內縮 -->
+## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
 
-上這門課讓我腦神經可以說活了一半回來，因為休學的兩年間不像在學校一直有新課程要學要動腦，雪上加霜的是去當 4 個月的兵後，只剩下吃飯和掃地的功能，雖說是活了一半的腦神經，但原本健在的一半卻死了，因為我花了3 天平均一天只睡4個小時為了要會用p37，雖然很開心比較懂了，卻也感覺自己好像程度落後很多呢!
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+    </script>
+</section>
 
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+## 使用 iframe 導入影片
+
+### 導入影片 template
+
+<iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </script>
 </section>
 
@@ -167,16 +203,12 @@ Created by [40423111](https://github.com/mdecadp2018/site-40423111)
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-# Week 3
+# 數學符號與方程式
 
-學習使用onshape
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
 
-onshape的優點:
-* 不須下載便能建構3D          (有更多容量載遊戲，真的棒!!)
-* 不須害怕畫快完時當機還沒儲存          (當機，真的幹)
-* 分享作品快速，只需一條網址就能偷窺    
-* 網路就是我的公事包
-
+$$I = \int \rho R^{2} dV$$
     </script>
 </section>
 
@@ -186,47 +218,32 @@ onshape的優點:
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-onshape的缺點:
-* 有中文介面，但不能用          (真的香菇)
+## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
 
-    </script>
-</section>
-
-
-
-						
-</section>
-
-<section>
-<section data-markdown>
-    <script type="text/template">
-<!-- 請注意, @others 不可以內縮 -->
-# Week 4
-
-Onshape 學習要點 :
-
-* 建立 Onshape 帳號 - 請利用學校 gmail 建立教育版帳號
-* 3D 環境導航 ( navigate )
-* 說明基於草圖 ( sketch-based )的建模
-* 介紹 4 個基本特徵 ( feature s)（擠出 ( extrude )，旋轉 ( revolve )，掃描 ( sweep )，和斷面混成 ( loaf )）
-* 從 2D 過渡到 3D
-
-    </script>
-</section>
-
-
-
-						
-<section data-markdown>
-    <script type="text/template">
-<!-- 請注意, @others 不可以內縮 -->
-* 介紹基本草圖
-* 附錄 A：鍵盤快捷鍵 ( keyboard shotcuts )，滑鼠和觸控平面手勢 ( touchpad gestures )，檢視工具
-* 附錄 B：導航說明檔，建立帳號，訂閱計劃 ( subscription plans )
-* 圓柱薄殼 ( cylinder shell ) - 繪圖界面與可視化 / 檢視的介紹
-* 針對既有草圖的模型 - 接續建立特徵
-* 現存公用模型 (public models) - 如何搜尋並復製到工作區 ( workspace )
-
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
     </script>
 </section>
 
@@ -235,44 +252,11 @@ Onshape 學習要點 :
 						
 <section data-markdown>
     <script type="text/template">
-只要逐一閱讀 Onshape 教學文件,  從各單字的英英字典查詢中, 找出用來解釋這些單字的相關單字, 並用心了解各單字的字意與用法, 假以時日, 就能更順暢直接閱讀各種英文資料.
+## 使用 iframe 導入影片
 
-    </script>
-</section>
+### 導入影片 template
 
-
-						
-<section data-markdown>
-    <script type="text/template">
-Onshape 是一套雲端應用程式
-雲端應用的特性是: 用多少運算資源, 才開啟多少運算資源, 可最佳化且不至超載.
-Onshape is like any other large-scale modern cloud application – a collection of servers and services. They can run on machines optimized for their purposes; and the number of instances can be optimized so that they are always busy, but not overloaded, to make efficient use of resources.
-
-    </script>
-</section>
-
-
-						
-<section data-markdown>
-    <script type="text/template">
-認證伺服器
-Some servers that handle things (such as user authentication and authorization, and finding and listing documents) process lots of requests, but do not do much “real work” themselves. They forward complex requests to other servers. Others know what is “inside” a document, and keep modeling sessions in memory, resulting in long-lasting sessions for modeling with documents.
-
-    </script>
-</section>
-
-
-						
-<section data-markdown>
-    <script type="text/template">
-幾何運算伺服器
-
-Onshape 的幾何模擬核心採用 Parasolid
-
-Onshape 採用 D-Cubed 解繪圖過程中的幾何約束條件
-
-Others, the admittedly unimaginatively named “geometry servers,” do all the math – these are optimized for computation power. These servers are the ones that reconstruct geometry from feature lists and FeatureScript, solve for instance positions in assemblies, and compute graphical tessellations. They make use of the venerable geometric modeling kernel Parasolid and constraint solver D-Cubed – both well-tested by many years of use in many CAD systems – which we license from Siemens PLM.
-
+<iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </script>
 </section>
 
@@ -284,33 +268,12 @@ Others, the admittedly unimaginatively named “geometry servers,” do all the 
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-# Week 5
+# 數學符號與方程式
 
-Onshape : 看PDF，用 Merriam-Webster 查不會的英文單字
-Pyslvs 介紹 : 
-介紹行走機構，用 Pyslvs 分析，做設計前必須先了解其特性，在 Pyslvs 改變任何一個地方，後面的尺寸就會跟著變動
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
 
-    </script>
-</section>
-
-
-
-						
-</section>
-
-<section>
-<section data-markdown>
-    <script type="text/template">
-<!-- 請注意, @others 不可以內縮 -->
-# Week 6
-
-* 更新 flaskapp.py 至最新版本：
-上網搜尋 github cmsimfly
-* 將 git clone cmsimfly 的倉儲 git clone https://github.com/chiamingyen/cmsimfly
-* 將 cmsimfly 裡的 flaskapp.py 複製貼上至自己的資料夾
-* 更新 flaskapp.py
-* 在 Leo 中，開啟 cmsimfly.leo
-* 在 Leo 中的編輯 flaskapp.py 下按 ctrl + i 新增一個 @auto flaskapp.py
+$$I = \int \rho R^{2} dV$$
     </script>
 </section>
 
@@ -320,34 +283,47 @@ Pyslvs 介紹 :
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-鼠標在 @auto flaskapp.py 上，按右鍵點 Refresh from disk
+## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
 
-將原本的 @clean flaskapp.py 刪掉
-
-把 @auto flaskapp.py 改為 @clean flaskapp.py
-
-完成更新
-
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
     </script>
 </section>
 
 
 
 						
-</section>
-
-<section>
 <section data-markdown>
     <script type="text/template">
-<!-- 請注意, @others 不可以內縮 -->
-# Week 9
+## 使用 iframe 導入影片
 
-* 進行專案分組及打自評成績
-* 專案有八個題目可以選擇：3D 列印、行走機構、鋼球運動系統、機械手臂、虛實手足球、機械計時器、摺疊自行車及方程式賽車
+### 導入影片 template
 
+<iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </script>
 </section>
-
 
 
 						
