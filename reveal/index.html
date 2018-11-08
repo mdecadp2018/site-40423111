@@ -78,6 +78,196 @@ Created by [KMOLab](http://lab.kmol.info/)
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
+# Week 1
+
+* 目的:創建一個新的respository
+
+* 工具:github、p37
+
+* 登入github新增一個new repository
+
+* 開起p37 git clone 40423111-2倉儲和2018fall倉儲到近端,將兩者合併
+
+* 將檔案推上雲端
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+* git status--------------------查看檔案狀況
+
+* git add .---------------------加入全部
+
+* git commt -m " _______"-----建commit
+
+* git push---------------------推到遠端
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+# Week 3
+
+### 心得
+
+上課時聽嚴教授說明github倉儲只覺得頭很痛，
+教授腦袋的運作方式就是不一樣，當時只了解
+利用雲端倉儲就是帥，可以不用背公事包帶學
+身碟，甚至不用人在現場也可以進行會議，只
+要有網路，是能做到這些的，但我擔心的是網
+路上的安全性，假如安全沒問題這樣的構想能
+實現，真的能帶來極大的利益與便利。
+
+    </script>
+</section>
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+## 使用 iframe 導入影片
+
+### 導入影片 template
+
+<iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </script>
+</section>
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# 數學符號與方程式
+
+Inline math equations go in like so: $\omega = d\phi / dt$. Display
+math should get its own line and be put in in double-dollarsigns:
+
+$$I = \int \rho R^{2} dV$$
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+## 利用 Markdown 寫投影片
+以下利用 Markdown 格式展示 Python 程式碼:
+```
+# use threading and subprocess to threading the make process
+import os
+import subprocess
+import threading
+
+def domake():
+    
+    path = "../exposed/api/exposed"
+    ubuntu = "../Ubuntu"
+    
+    # create obj path
+    
+    if not os.path.exists(path+"/../obj"):
+        os.makedirs(path+"/../obj")
+    
+    subprocess.call(["make", "clean"], cwd=path)
+    subprocess.call("make", cwd=path)
+    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
+    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
+    
+make = threading.Thread(target=domake)
+make.start()
+```
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+## 使用 iframe 導入影片
+
+### 導入影片 template
+
+<iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    </script>
+</section>
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
 # 數學符號與方程式
 
 Inline math equations go in like so: $\omega = d\phi / dt$. Display
